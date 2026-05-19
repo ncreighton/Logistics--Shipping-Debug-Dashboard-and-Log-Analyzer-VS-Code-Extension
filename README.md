@@ -1,0 +1,2 @@
+# Logistics--Shipping-Debug-Dashboard-and-Log-Analyzer-VS-Code-Extension
+A comprehensive VS Code extension for logistics and shipping professionals, developers, and system administrators. It provides a dedicated debug dashboard to monitor, analyze, and troubleshoot shipping-related logs, API responses, and tracking events in real-time. The extension parses common shipping data formats (JSON, XML, CSV) and highlights err
