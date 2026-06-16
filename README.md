@@ -1,2 +1,71 @@
-# Logistics--Shipping-Debug-Dashboard-and-Log-Analyzer-VS-Code-Extension
-A comprehensive VS Code extension for logistics and shipping professionals, developers, and system administrators. It provides a dedicated debug dashboard to monitor, analyze, and troubleshoot shipping-related logs, API responses, and tracking events in real-time. The extension parses common shipping data formats (JSON, XML, CSV) and highlights err
+# Logistics & Shipping Debug Dashboard and Log Analyzer VS Code Extension
+
+> A comprehensive VS Code extension for logistics and shipping professionals, developers, and system administrators. It provides a dedicated debug dashboard to monitor, analyze, and troubleshoot shipping-related logs, API responses, and tracking events in real-time. The extension parses common shipping data formats (JSON, XML, CSV) and highlights errors, delays, and anomalies. It integrates with major carriers (UPS, FedEx, DHL, USPS) and supports custom log sources. Users can filter logs by status
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.c393375c`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Logistics & Shipping Debug Dashboard and Log Analyzer VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `c393375c.enabled` | `true` | Enable/disable the extension |
+| `c393375c.autoRun` | `false` | Auto-run on file open |
+| `c393375c.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/c393375c/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM7sL5iT1g03lmgUcd0a45)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM7sL5iT1g03lmgUcd0a45)
+
